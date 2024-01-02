@@ -4,6 +4,9 @@ Changelog
 in development
 --------------
 
+* do not throw exception if input parameter is a jinja variable that does not exist. #6101
+  Contributed by @guzzijones12
+
 Added
 ~~~~~
 * Move `git clone` to `user_home/.st2packs` #5845
