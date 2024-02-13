@@ -8,6 +8,7 @@ Python 3.6 is no longer supported; Stackstorm requires at least Python 3.8.
 
 Fixed
 ~~~~~
+* Restore Pack integration testing. #6135
 
 Changed
 ~~~~~~~
